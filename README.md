@@ -9,7 +9,7 @@ CSE Student @PSG College Of Technology
 
 🤖 Exploring AI integration to create smarter workflows and applications
 
-📚 Actively teaching and mentoring DSA, while enhancing my own problem-solving skills
+📚 Actively learning DSA, to enhance my own problem-solving skills
 
 🔧 Experienced in building scalable, impactful applications with modern tech stack.
                                     
